@@ -1,0 +1,1 @@
+python myTrain.py --model_file BiDeN
